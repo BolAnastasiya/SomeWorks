@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="lab9.PersonalAccount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:lab9"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid x:Name="Blog1" FocusVisualPrimaryBrush="#FF7A209E" >
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>-->
+
+
+        <TextBlock x:Name="TbUserVideos" HorizontalAlignment="Right" Height="67" Margin="0,179,225,0" TextWrapping="Wrap" Text="Ваши видеозаписи" VerticalAlignment="Top" Width="405" FontSize="38"/>
+
+        <ListBox x:Name="Listvideos" HorizontalAlignment="Right" Height="280" Margin="0,257,191,0" VerticalAlignment="Top" Width="439" SelectionChanged="Listvideos_SelectionChanged_1"/>
+        <Button x:Name="BtnGoOtherPage" Content="Перейти на другую страницу" Height="72" Margin="0,572,191,0" VerticalAlignment="Top" Width="439" Click="BtnGoOtherPage_Click" HorizontalAlignment="Right"/>
+
+        <Image x:Name="media" HorizontalAlignment="Right" Height="371" Margin="0,257,711,0" VerticalAlignment="Top" Width="618"/>
+        <Image />
+        <TextBlock x:Name="TBlock" HorizontalAlignment="Right" Height="81" Margin="0,0,601,879" TextWrapping="Wrap" Text="Страничка пользователя" VerticalAlignment="Bottom" Width="800" FontSize="62" FontWeight="Bold"/>
+        <Image x:Name="avatar" Visibility="Visible" Margin="209,0,0,500" Height="243" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="260"  />
+
+        <TextBlock x:Name="TbName" HorizontalAlignment="Left" Height="66" Margin="209,548,0,0" TextWrapping="Wrap" Text="пппппппаааааааааааааа" VerticalAlignment="Top" Width="285" FontSize="32" FocusVisualPrimaryBrush="#FF611313"/>
+        <Frame x:Name="MainFrame2" Content=" " Loaded="MainFrame_Loaded"  Height="1000" VerticalAlignment="Bottom"/>
+    </Grid>
+</Page>
