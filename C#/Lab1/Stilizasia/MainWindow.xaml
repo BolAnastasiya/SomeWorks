@@ -1,0 +1,24 @@
+﻿<Window x:Class="Stilizasia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stilizasia"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="335*"/>
+            <RowDefinition Height="51*"/>
+        </Grid.RowDefinitions>
+
+        <Grid HorizontalAlignment="Center" Height="46" Grid.Row="2" VerticalAlignment="Center" Width="800" Background="#FF507D38"/>
+        <Grid Background="#FFC3B953">
+            <Button x:Name="BtnBack" Content="Назад" HorizontalAlignment="Left" Margin="615,21,0,0" VerticalAlignment="Top"  Click="BtnBack_Click"/>
+        </Grid>
+        <Image Source="/stone-island-III.jpg" HorizontalAlignment="Left"></Image>
+        <Frame Grid.Row="1" Name="MainFrame" ContentRendered="MainFrame_ContentRendered" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>
