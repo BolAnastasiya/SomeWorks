@@ -1,0 +1,16 @@
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\bin\Debug\Labb3.exe.config
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\bin\Debug\Labb3.exe
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\bin\Debug\Labb3.pdb
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.csproj.AssemblyReference.cache
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form1.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form2.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form3.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form4.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Properties.Resources.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.csproj.GenerateResource.cache
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.csproj.CoreCompileInputs.cache
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.exe
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.pdb
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form21.resources
+C:\Users\79852\Desktop\3 курс\Воронина\Labb3\Labb3\obj\Debug\Labb3.Form31.resources
