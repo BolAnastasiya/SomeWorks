@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="Тест по живописи" Height="300" Width="500">
+    <Grid>
+        <Label FontSize="18" Content="Этот тест поможет проверить ваши знания&#x0a;в области живописи&#x0a;Переходите к вопросам, нажав на кнопку ниже." HorizontalAlignment="Center" Height="109" Margin="0,68,0,0" VerticalAlignment="Top" Width="432"/>
+        <Label FontSize="30" Content="Тест по живописи!" HorizontalAlignment="Left" Height="53" Margin="90,10,0,0" VerticalAlignment="Top" Width="302"/>
+        <Button FontSize="18" Content="Начать" HorizontalAlignment="Left" Margin="145,182,0,0" VerticalAlignment="Top" Width="192" Height="45" Click="Button_Click"/>
+
+    </Grid>
+</Window>
