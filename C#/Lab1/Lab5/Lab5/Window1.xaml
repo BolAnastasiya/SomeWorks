@@ -1,0 +1,26 @@
+﻿<Window x:Class="Lab5.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab5"
+        mc:Ignorable="d"
+        WindowState="Normal"
+        Title="Window1" Height="500" Width="850">
+    <Grid>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="682,371,0,60" Width="108" Click="Button_Click"/>
+        <TextBlock x:Name="Res" HorizontalAlignment="Left" Height="324" Margin="519,26,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="234"/>
+        <Button Content="Ввести" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" Height="53" Width="160" Click="Button_Click_2"/>
+        <Label Content="Индекс:" Margin="10,63,733,345"/>
+        <Label Content="Город:" Margin="10,94,744,314"/>
+        <Label Content="Улица:" Margin="10,120,744,288"/>
+        <Label Content="Дом:" Margin="10,146,723,262"/>
+        <TextBox x:Name="Str" HorizontalAlignment="Left" Height="26" Margin="106,121,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="Cit" HorizontalAlignment="Left" Height="26" Margin="106,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="Ind" HorizontalAlignment="Left" Height="26" Margin="106,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="Hou" HorizontalAlignment="Left" Height="26" Margin="106,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="TB1" HorizontalAlignment="Left" Height="35" Margin="10,23,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291"/>
+        <Button Content="Вывести" HorizontalAlignment="Center" Margin="0,82,0,0" VerticalAlignment="Top" Height="52" Width="160" Click="Button_Click_1" />
+
+    </Grid>
+</Window>
