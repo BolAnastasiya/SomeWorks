@@ -1,0 +1,50 @@
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\AddEditPage.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\HotelPage.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\ShopNow.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia_Content.g.cs
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\Stilizasia.exe.config
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\Stilizasia.exe
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\Stilizasia.pdb
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\EntityFramework.dll
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\EntityFramework.xml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\App.baml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\AddEditPage.baml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\HotelPage.baml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\ShopNow.baml
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.g.resources
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.csproj.CopyComplete
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.exe
+C:\Users\user.UIT\Desktop\Stilizasia\Stilizasia\obj\Debug\Stilizasia.pdb
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\AddEditPage.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\HotelPage.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\MainWindow.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\ShopNow.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\App.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia_Content.g.cs
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.cache
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.lref
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia.exe
+C:\Users\Артем\Downloads\Stilizasia\Stilizasia\obj\Debug\Stilizasia.pdb
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia.csproj.AssemblyReference.cache
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia.csproj.SuggestedBindingRedirects.cache
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\AddEditPage.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\HotelPage.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\MainWindow.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\ShopNow.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\App.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia_Content.g.cs
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.cache
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia_MarkupCompile.lref
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia.exe
+C:\Users\79852\Desktop\Stilizasia (2)\Stilizasia\obj\Debug\Stilizasia.pdb
